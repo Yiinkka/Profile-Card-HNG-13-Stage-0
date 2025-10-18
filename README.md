@@ -36,12 +36,3 @@ All required `data-testid` attributes are implemented:
 git clone https://github.com/yiinkka/profile-card-hng13-stage0.git
 cd profile-card-hng13-stage0
 start index.html
-
-
-## 🧑‍💻 Author
-
-**Mara Quinn** *(fictional character)*  
-Developed by **[Adesewo Joseph](https://github.com/yiinkka)**
-
----
-
