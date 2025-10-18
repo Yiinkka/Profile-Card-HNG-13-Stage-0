@@ -6,7 +6,7 @@ This project is a responsive **Profile Card** built using **HTML, CSS, and Vanil
 
 ## 🌐 Live Demo
 🔗Live Demo: [View Live on GitHub Pages](https://yiinkka.github.io/Profile-Card-HNG-13-Stage-0/)
-🔗Github Repo: (https://github.com/Yiinkka/Profile-Card-HNG-13-Stage-0/tree/main)
+🔗Github Repo: (https://github.com/Yiinkka/Profile-Card-HNG-13-Stage-0)
 
 
 ---
