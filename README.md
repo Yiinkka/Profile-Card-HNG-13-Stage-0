@@ -5,16 +5,16 @@ This project is a responsive **Profile Card** built using **HTML, CSS, and Vanil
 ---
 
 ## 🌐 Live Demo
-🔗 [View Live on Github](https://yiinkka.github.io/Profile-Card-HNG-13-Stage-0/)
+🔗 [View Live on GitHub Pages](https://yiinkka.github.io/Profile-Card-HNG-13-Stage-0/)
 
 ---
 
 ## 📁 Features
-- User name, bio, avatar, and time (milliseconds)
-- Social media links with hover/focus animation
-- List of hobbies and dislikes
-- Dynamic time updating with JavaScript
-- Glassmorphism design + green ambient glow
+- User name, bio, avatar, and time (milliseconds)  
+- Social media links with hover/focus animation  
+- List of hobbies and dislikes  
+- Dynamic time updating with JavaScript  
+- Glassmorphism design + green ambient glow  
 
 ---
 
@@ -32,7 +32,17 @@ All required `data-testid` attributes are implemented:
 ---
 
 ## 🖥️ Running Locally
+
 ```bash
-git clone https://github.com/yiinkka/profile-card-hng13-stage0.git
-cd profile-card-hng13-stage0
+git clone https://github.com/yiinkka/Profile-Card-HNG-13-Stage-0.git
+cd Profile-Card-HNG-13-Stage-0
+# Windows:
 start index.html
+# macOS:
+# open index.html
+# Linux:
+# xdg-open index.html
+
+🧑‍💻 Author
+Mara Quinn (fictional character)
+Developed by Adesewo Joseph
